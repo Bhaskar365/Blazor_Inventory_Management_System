@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "apD9XDWvLjam/h+eYf1D0KTGAANdEKIyVWJPigAPNpkBGSSd6Ny+Z5wD/FNMe89PAcKz8o2i34njRSEgCPh+/w==",
+  "dgSpecHash": "VqY70TYno0EGeTDtSRLiQRZQmx3CkSIUNkk9r/jRGZ983aQgPYeetNTGSM5zkernqsPqwZGSG97BObSUYgYZ3w==",
   "success": true,
   "projectFilePath": "C:\\Angular_RunningPrograms\\InventoryManagementSystemBlazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.25\\microsoft.entityframeworkcore.abstractions.6.0.25.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.25\\microsoft.entityframeworkcore.analyzers.6.0.25.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.25\\microsoft.entityframeworkcore.design.6.0.25.nupkg.sha512",
+    "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.0\\microsoft.entityframeworkcore.inmemory.6.0.0.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.25\\microsoft.entityframeworkcore.relational.6.0.25.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.25\\microsoft.entityframeworkcore.sqlserver.6.0.25.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.25\\microsoft.entityframeworkcore.tools.6.0.25.nupkg.sha512",

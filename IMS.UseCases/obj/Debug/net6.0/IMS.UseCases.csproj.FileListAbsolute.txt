@@ -1,0 +1,16 @@
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.sourcelink.json
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\refint\IMS.UseCases.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll

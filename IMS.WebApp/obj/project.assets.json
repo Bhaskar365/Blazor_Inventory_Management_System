@@ -239,6 +239,22 @@
           "build/net6.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.InMemory/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/6.0.25": {
         "type": "package",
         "dependencies": {
@@ -951,6 +967,44 @@
             "rid": "win"
           }
         }
+      },
+      "IMS.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        }
+      },
+      "IMS.Plugins.EFCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IMS.UseCases": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Plugins.EFCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Plugins.EFCore.dll": {}
+        }
+      },
+      "IMS.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IMS.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.UseCases.dll": {}
+        }
       }
     }
   },
@@ -1368,6 +1422,20 @@
         "lib/net6.0/Microsoft.EntityFrameworkCore.Design.xml",
         "microsoft.entityframeworkcore.design.6.0.25.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/6.0.0": {
+      "sha512": "WJmphvCn0wue9AX+Wvqj3XZ3ehNi9oyYBFNLtHVNvKqZrcimXBOqLo5RNf1fJWYSLWhOia/vzG4JtkAeZxZ8FQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.inmemory/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.xml",
+        "microsoft.entityframeworkcore.inmemory.6.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.25": {
@@ -2442,13 +2510,30 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "IMS.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+      "msbuildProject": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+    },
+    "IMS.Plugins.EFCore/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Plugins.EFCore/IMS.Plugins.EFCore.csproj",
+      "msbuildProject": "../IMS.Plugins.EFCore/IMS.Plugins.EFCore.csproj"
+    },
+    "IMS.UseCases/1.0.0": {
+      "type": "project",
+      "path": "../IMS.UseCases/IMS.UseCases.csproj",
+      "msbuildProject": "../IMS.UseCases/IMS.UseCases.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "IMS.Plugins.EFCore >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.25",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.25",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.25",
+      "Microsoft.EntityFrameworkCore.InMemory >= 6.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.25",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.25"
     ]
@@ -2485,7 +2570,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Angular_RunningPrograms\\InventoryManagementSystemBlazor\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
+              "projectPath": "C:\\Angular_RunningPrograms\\InventoryManagementSystemBlazor\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2509,6 +2598,10 @@
           "Microsoft.AspNetCore.Identity.UI": {
             "target": "Package",
             "version": "[6.0.25, )"
+          },
+          "Microsoft.EntityFrameworkCore.InMemory": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

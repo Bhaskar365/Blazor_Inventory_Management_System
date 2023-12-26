@@ -1,0 +1,12 @@
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.sourcelink.json
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Angular_RunningPrograms\InventoryManagementSystemBlazor\IMS\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll
