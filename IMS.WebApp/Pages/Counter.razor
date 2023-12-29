@@ -13,15 +13,12 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<br />
+
+<ViewInventoriesComponent></ViewInventoriesComponent>
+
 @code {
     private int currentCount = 0;
-
-    //test
-    protected override async Task OnInitializedAsync()
-    {
-        var invs = await ViewInventoriesByNameUseCase.ExecuteAsync();    
-    }
-
 
     private void IncrementCount()
     {
